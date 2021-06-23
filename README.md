@@ -1,6 +1,6 @@
 # Tehran-Air-Quality
 
-* This is for my ML course final exam.
+* This project is my ML course final exam.
  
  <table>
   <tr>
