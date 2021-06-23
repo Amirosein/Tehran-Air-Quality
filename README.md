@@ -18,7 +18,7 @@
 In this project I am going to build a model which predicts Tehran's air quality by some of its environmental parameters (like Temperature, Wind, etc.).
 Here, the AQI (Air Quality Index) of Tehran in 2019 has been studied. Because after that year, another effective parameter, the COVID-19, has been emerged throughout the world.
 
-The datasets have been provided from [TPMA](https://data.irimo.ir/)<sup>1</sup>, [Weather Underground](https://www.wunderground.com/history/monthly/ir/tehran/OIII/date/2019-1), [TAQC](https://air.tehran.ir/)<sup>2</sup>.
+* The datasets have been provided from [TPMA](https://data.irimo.ir/)<sup>1</sup>, [Weather Underground](https://www.wunderground.com/history/monthly/ir/tehran/OIII/date/2019-1), [TAQC](https://air.tehran.ir/)<sup>2</sup>.
 
 <h1></h1>
 
