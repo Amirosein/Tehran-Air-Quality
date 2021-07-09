@@ -8,7 +8,7 @@
     <th>Notebook</th>
   </tr>
   <tr>    
-    <td><p><a href="https://github.com/Churchiill/Tehran-Air-Quality/blob/main/ML_Final_Report.pdf">Tehran_AQI</a></p></td>
+    <td><p><a href="https://github.com/Churchiill/Tehran-Air-Quality/blob/main/ML_Final_Report.pdf">Tehran_AQI (Persian)</a></p></td>
     <td><p><a href="https://colab.research.google.com/github/Churchiill/Tehran-Air-Quality/blob/main/Tehran_AQI.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></td>
   </tr>
